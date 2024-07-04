@@ -87,7 +87,7 @@
             45Wu356NRVMHLermYSYSfQVf3GeDamz7sChMiFpM6cRvCHtQypW7Fey2P68EfxK2tZPbpbADpXNmwNoW6AiXtaf7U4Tg31E
         </div>
     </div>
-    <div class="text5">Also, here you are my github account --> <a href="https://github.com/llhola">click</a></div>
+    <div class="text5">Also, here you are my github account --> <a href="https://github.com/42S01linkol13">click</a></div>
     <div class="text6">And my Discord account --> linkol13#0</div>
     <div class="text7">If you want to order site (backend only, pleeeaaaassseee...), just read the README.md file!
     </div>
