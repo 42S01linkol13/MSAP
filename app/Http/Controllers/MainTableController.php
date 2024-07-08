@@ -59,7 +59,8 @@ class MainTableController extends Controller
                 'site' => $site,
                 'root' => $root,
                 'user' => $user,
-                'created_at' => $time
+                'created_at' => $time,
+                'updated_at' => $time     
             ]);
             return redirect('/msap/new_table_view');
         }
